@@ -36,7 +36,7 @@ while True:
                     break
                 else:
                     print("Senha incorreta!")
-                    tentativa += 1  # 
+                    tentativa += 1  
             else:
                 print("Usuário não encontrado!")
                 tentativa += 1  
